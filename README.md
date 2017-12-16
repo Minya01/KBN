@@ -11,8 +11,8 @@ frontend knowledge note-前端知识笔记
 
 ## 具体步骤
 
-- 首先，在浏览器上输入`data:text/html, <html contenteditable>`然后回车，可以将chrome变成临时编辑器
-- 然后，使用chrome的插件Screencastitf进行录制
+- 使用chrome的插件Screencastitf进行录制
+- 辅助：在浏览器上输入`data:text/html, <html contenteditable>`然后回车，可以将chrome变成临时编辑器
 
 
 
